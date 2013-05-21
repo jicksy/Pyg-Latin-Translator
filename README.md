@@ -7,3 +7,5 @@ If the original word starts with a vowel, you append the suffix 'ay' to the end 
 
 If the original word starts with a consonant, you move the first letter of the word to the end,
 and then append the suffix 'ay'.
+
+The Translator is build in Python code.
