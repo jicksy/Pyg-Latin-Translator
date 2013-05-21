@@ -1,5 +1,6 @@
-Pyg-Latin-Translator - An excercise of Codecademy!
+Pyg-Latin-Translator
 ====================
+An Excercise of Codecademy! Included is a working code in Python-Tested!
 
 Pig Latin is a language game where words in English are altered according to a simple set of rules.
 
